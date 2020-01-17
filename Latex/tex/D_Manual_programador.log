@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  16 JAN 2020 20:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 14:58
 entering extended mode
 **./D_Manual_programador.tex
 (D_Manual_programador.tex
@@ -616,7 +616,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \@footnotetext ...tins {\reset@font \footnotesize 
                                                   \interlinepenalty \interfo...
 l.11 ...-2019/ubu-bc4distribution/tree/paginaWeb}}
-                                                  , se utiliza los siguiente...
+                                                   \footnote{Repositorio Git...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -627,7 +627,7 @@ and I'll forget about whatever was undefined.
 \@footnotetext ...}\color@begingroup \@makefntext 
                                                   {\rule \z@ \footnotesep \i...
 l.11 ...-2019/ubu-bc4distribution/tree/paginaWeb}}
-                                                  , se utiliza los siguiente...
+                                                   \footnote{Repositorio Git...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -638,7 +638,7 @@ and I'll forget about whatever was undefined.
 <argument> Repositorio GitLab: \url 
                                     {https://gitlab.com/HP-SCDS/Observatorio...
 l.11 ...-2019/ubu-bc4distribution/tree/paginaWeb}}
-                                                  , se utiliza los siguiente...
+                                                   \footnote{Repositorio Git...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -680,6 +680,54 @@ Overfull \hbox (141.50034pt too wide) in paragraph at lines 11--11
 \/cmr/m/n/10 bc4distribution/tree/paginaWeb| 
  []
 
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.11 ...https://github.com/ers0026/ProyectoFinal}}
+                                                  , se utiliza los siguiente...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.11 ...https://github.com/ers0026/ProyectoFinal}}
+                                                  , se utiliza los siguiente...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Repositorio GitHub: \url 
+                                    {https://github.com/ers0026/ProyectoFinal}
+l.11 ...https://github.com/ers0026/ProyectoFinal}}
+                                                  , se utiliza los siguiente...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (49.94455pt too wide) in paragraph at lines 11--11
+[][]\/cmr/m/n/10 Repositorio
+ []
+
+
+Overfull \hbox (35.90286pt too wide) in paragraph at lines 11--11
+\/cmr/m/n/10 GitHub:
+ []
+
+
+Overfull \hbox (187.11156pt too wide) in paragraph at lines 11--11
+\/cmr/m/n/10 https://github.com/ers0026/ProyectoFinal| 
+ []
+
 Missing character: There is no , in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -711,6 +759,11 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+[]
+ []
+
+
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 11--12
 []
  []
 
@@ -3000,7 +3053,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \begin{figure}
+l.46 \begin{figure}
                    [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3010,7 +3063,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.48 		\includegraphics
+l.49 		\includegraphics
                        [width=\linewidth]{Metamask1}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3028,7 +3081,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.48 		\includegraphics[width=\linewidth]
+l.49 		\includegraphics[width=\linewidth]
                                          {Metamask1}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3037,7 +3090,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.48 		\includegraphics[width=\linewidth]
+l.49 		\includegraphics[width=\linewidth]
                                          {Metamask1}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3063,7 +3116,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 		\caption
+l.50 		\caption
                {Confirmar el contrato}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3088,7 +3141,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
-l.55 		\includegraphics
+l.56 		\includegraphics
                        [width=\linewidth]{Metamask2}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3106,7 +3159,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.55 		\includegraphics[width=\linewidth]
+l.56 		\includegraphics[width=\linewidth]
                                          {Metamask2}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3115,7 +3168,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.55 		\includegraphics[width=\linewidth]
+l.56 		\includegraphics[width=\linewidth]
                                          {Metamask2}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3141,7 +3194,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 		\caption
+l.57 		\caption
                {Conexión pendiente}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3163,12 +3216,12 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 55--58
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 56--59
  \/cmr/m/n/10 o 
  []
 
 ! Undefined control sequence.
-l.61 		\includegraphics
+l.62 		\includegraphics
                        [width=\linewidth]{Metamask3}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3186,7 +3239,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.61 		\includegraphics[width=\linewidth]
+l.62 		\includegraphics[width=\linewidth]
                                          {Metamask3}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3195,7 +3248,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.61 		\includegraphics[width=\linewidth]
+l.62 		\includegraphics[width=\linewidth]
                                          {Metamask3}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3221,7 +3274,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 		\caption
+l.63 		\caption
                {Confirmar el contrato}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3246,7 +3299,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
-l.68 		\includegraphics
+l.69 		\includegraphics
                        [width=\linewidth]{Metamask4}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3264,7 +3317,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.68 		\includegraphics[width=\linewidth]
+l.69 		\includegraphics[width=\linewidth]
                                          {Metamask4}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3273,7 +3326,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.68 		\includegraphics[width=\linewidth]
+l.69 		\includegraphics[width=\linewidth]
                                          {Metamask4}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3299,7 +3352,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 		\caption
+l.70 		\caption
                {Conexión pendiente}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3321,12 +3374,12 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 68--71
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 69--72
  \/cmr/m/n/10 o 
  []
 
 ! Undefined control sequence.
-l.74 		\includegraphics
+l.75 		\includegraphics
                        [width=\linewidth]{Metamask5}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3344,7 +3397,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.74 		\includegraphics[width=\linewidth]
+l.75 		\includegraphics[width=\linewidth]
                                          {Metamask5}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3353,7 +3406,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.74 		\includegraphics[width=\linewidth]
+l.75 		\includegraphics[width=\linewidth]
                                          {Metamask5}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3379,7 +3432,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.75 		\caption
+l.76 		\caption
                {Conexión confirmada}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3402,7 +3455,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 74--77
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--78
  \/cmr/m/n/10 o 
  []
 
@@ -3413,14 +3466,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 \end{figure}
+l.79 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (44.02754pt too wide) in paragraph at lines 81--82
+Overfull \hbox (44.02754pt too wide) in paragraph at lines 82--83
 \OT1/cmr/bx/n/10 XAMPP 
  []
 
@@ -3507,7 +3560,7 @@ Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
 \@footnotetext ...tins {\reset@font \footnotesize 
                                                   \interlinepenalty \interfo...
-l.85 ...https://www.apachefriends.org/index.html}}
+l.86 ...https://www.apachefriends.org/index.html}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3518,7 +3571,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@footnotetext ...}\color@begingroup \@makefntext 
                                                   {\rule \z@ \footnotesep \i...
-l.85 ...https://www.apachefriends.org/index.html}}
+l.86 ...https://www.apachefriends.org/index.html}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3529,7 +3582,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \url 
                 {https://www.apachefriends.org/index.html}
-l.85 ...https://www.apachefriends.org/index.html}}
+l.86 ...https://www.apachefriends.org/index.html}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3538,13 +3591,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (187.11153pt too wide) in paragraph at lines 85--85
+Overfull \hbox (187.11153pt too wide) in paragraph at lines 86--86
 [][]\/cmr/m/n/10 https://www.apachefriends.org/index.html| 
  []
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.48615pt too wide) in paragraph at lines 85--86
+Overfull \hbox (9.48615pt too wide) in paragraph at lines 86--87
 \/cmr/m/n/10 a[] 
  []
 
@@ -3610,7 +3663,7 @@ Missing character: There is no O in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 86--87
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 87--88
 \/cmr/m/n/10 o
  []
 
@@ -3756,7 +3809,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (15.35545pt too wide) in paragraph at lines 88--89
+Overfull \hbox (15.35545pt too wide) in paragraph at lines 89--90
 \OT1/cmr/m/it/10 Yes 
  []
 
@@ -3902,17 +3955,17 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 89--90
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 90--91
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 89--90
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 90--91
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (20.94292pt too wide) in paragraph at lines 89--90
+Overfull \hbox (20.94292pt too wide) in paragraph at lines 90--91
 \OT1/cmr/m/it/10 Next 
  []
 
@@ -4002,12 +4055,12 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 90--91
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (20.94292pt too wide) in paragraph at lines 90--91
+Overfull \hbox (20.94292pt too wide) in paragraph at lines 91--92
 \OT1/cmr/m/it/10 Next 
  []
 
@@ -4133,22 +4186,22 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (20.94292pt too wide) in paragraph at lines 91--92
+Overfull \hbox (20.94292pt too wide) in paragraph at lines 92--93
 \OT1/cmr/m/it/10 Next 
  []
 
@@ -4347,52 +4400,52 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (18.79431pt too wide) in paragraph at lines 92--93
+Overfull \hbox (18.79431pt too wide) in paragraph at lines 93--94
 \OT1/cmr/m/it/10 Fin-
  []
 
 
-Overfull \hbox (12.2666pt too wide) in paragraph at lines 92--93
+Overfull \hbox (12.2666pt too wide) in paragraph at lines 93--94
 \OT1/cmr/m/it/10 ish
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 92--93
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 93--94
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 92--93
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 93--94
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (31.5984pt too wide) in paragraph at lines 94--95
+Overfull \hbox (31.5984pt too wide) in paragraph at lines 95--96
 \OT1/cmr/bx/n/10 Visual
  []
 
 
-Overfull \hbox (21.08322pt too wide) in paragraph at lines 94--95
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 95--96
 \OT1/cmr/bx/n/10 Stu-
  []
 
 
-Overfull \hbox (15.33325pt too wide) in paragraph at lines 94--95
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 95--96
 \OT1/cmr/bx/n/10 ido
  []
 
 
-Overfull \hbox (26.03459pt too wide) in paragraph at lines 94--95
+Overfull \hbox (26.03459pt too wide) in paragraph at lines 95--96
 \OT1/cmr/bx/n/10 Code 
  []
 
@@ -4421,7 +4474,7 @@ Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
 \@footnotetext ...tins {\reset@font \footnotesize 
                                                   \interlinepenalty \interfo...
-l.96 ...note{\url{https://code.visualstudio.com/}}
+l.97 ...note{\url{https://code.visualstudio.com/}}
                                                    y seleccionaremos para qu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4432,7 +4485,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@footnotetext ...}\color@begingroup \@makefntext 
                                                   {\rule \z@ \footnotesep \i...
-l.96 ...note{\url{https://code.visualstudio.com/}}
+l.97 ...note{\url{https://code.visualstudio.com/}}
                                                    y seleccionaremos para qu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4443,7 +4496,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \url 
                 {https://code.visualstudio.com/}
-l.96 ...note{\url{https://code.visualstudio.com/}}
+l.97 ...note{\url{https://code.visualstudio.com/}}
                                                    y seleccionaremos para qu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4452,7 +4505,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (135.44478pt too wide) in paragraph at lines 96--96
+Overfull \hbox (135.44478pt too wide) in paragraph at lines 97--97
 [][]\/cmr/m/n/10 https://code.visualstudio.com/| 
  []
 
@@ -4525,12 +4578,12 @@ Missing character: There is no O in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.48615pt too wide) in paragraph at lines 96--97
+Overfull \hbox (9.48615pt too wide) in paragraph at lines 97--98
 \/cmr/m/n/10 a[]
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 96--97
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 97--98
 \/cmr/m/n/10 e
  []
 
@@ -4646,12 +4699,12 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 98--99
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 98--99
 \/cmr/m/n/10 o
  []
 
@@ -4699,7 +4752,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 98--99
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--100
 \/cmr/m/n/10 a 
  []
 
@@ -4953,12 +5006,12 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 100--101
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 101--102
 \/cmr/m/n/10 u
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
 \/cmr/m/n/10 a
  []
 
@@ -5084,12 +5137,12 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 102--103
 \/cmr/m/n/10 o
  []
 
 ! Undefined control sequence.
-l.105 \section
+l.106 \section
               {Compilación, instalación y ejecución del proyecto}\label{i...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5139,22 +5192,22 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (25.00002pt too wide) in paragraph at lines 105--106
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 106--107
 []\/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--106
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 106--107
 \/cmr/m/n/10 o
  []
 
 ! Undefined control sequence.
-l.107 \subsection
+l.108 \subsection
                  {Descarga del proyecto}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5326,17 +5379,17 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 107--109
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--110
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 107--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--110
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 107--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--110
 \/cmr/m/n/10 o
  []
 
@@ -5454,7 +5507,75 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 \@footnotetext ...tins {\reset@font \footnotesize 
                                                   \interlinepenalty \interfo...
-l.110 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+l.111 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+                                                   \footnote{Repositorio Git...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.111 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+                                                   \footnote{Repositorio Git...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Repositorio GitLab: \url 
+                                    {https://gitlab.com/HP-SCDS/Observatorio...
+l.111 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+                                                   \footnote{Repositorio Git...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (49.94455pt too wide) in paragraph at lines 111--111
+[][]\/cmr/m/n/10 Repositorio
+ []
+
+
+Overfull \hbox (17.84724pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 Git-
+ []
+
+
+Overfull \hbox (19.58339pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 Lab:
+ []
+
+
+Overfull \hbox (103.52803pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 https://gitlab.com/HP-
+ []
+
+
+Overfull \hbox (115.25027pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 SCDS/Observatorio/2018-
+ []
+
+
+Overfull \hbox (45.00012pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 2019/ubu-
+ []
+
+
+Overfull \hbox (141.50034pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 bc4distribution/tree/paginaWeb| 
+ []
+
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.111 ...ttps://github.com/ers0026/ProyectoFinal}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5465,7 +5586,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@footnotetext ...}\color@begingroup \@makefntext 
                                                   {\rule \z@ \footnotesep \i...
-l.110 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+l.111 ...ttps://github.com/ers0026/ProyectoFinal}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5474,9 +5595,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<argument> \url 
-                {https://gitlab.com/HP-SCDS/Observatorio/2018-2019/ubu-bc4di...
-l.110 ...2019/ubu-bc4distribution/tree/paginaWeb}}
+<argument> Repositorio GitHub: \url 
+                                    {https://github.com/ers0026/ProyectoFinal}
+l.111 ...ttps://github.com/ers0026/ProyectoFinal}}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5485,46 +5606,147 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (103.52803pt too wide) in paragraph at lines 110--110
-[][]\/cmr/m/n/10 https://gitlab.com/HP-
+Overfull \hbox (49.94455pt too wide) in paragraph at lines 111--111
+[][]\/cmr/m/n/10 Repositorio
  []
 
 
-Overfull \hbox (115.25027pt too wide) in paragraph at lines 110--110
-\/cmr/m/n/10 SCDS/Observatorio/2018-
+Overfull \hbox (35.90286pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 GitHub:
  []
 
 
-Overfull \hbox (45.00012pt too wide) in paragraph at lines 110--110
-\/cmr/m/n/10 2019/ubu-
- []
-
-
-Overfull \hbox (141.50034pt too wide) in paragraph at lines 110--110
-\/cmr/m/n/10 bc4distribution/tree/paginaWeb| 
+Overfull \hbox (187.11156pt too wide) in paragraph at lines 111--111
+\/cmr/m/n/10 https://github.com/ers0026/ProyectoFinal| 
  []
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 110--111
+Overfull \hbox (20.0pt too wide) in paragraph at lines 111--112
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 111--112
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 111--112
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (4.48613pt too wide) in paragraph at lines 110--111
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 111--112
+[]
+ []
+
+
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 111--112
 [] 
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/edu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+! Undefined control sequence.
+<write> \newlabel{ref:install}{{}{\thepage 
+                                           }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{ref:install}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Metamask1}{{}{\thepage 
+                                             }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Metamask1}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Metamask2}{{}{\thepage 
+                                             }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Metamask2}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Metamask3}{{}{\thepage 
+                                             }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Metamask3}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Metamask4}{{}{\thepage 
+                                             }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Metamask4}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Metamask5}{{}{\thepage 
+                                             }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Metamask5}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{intalacionE}{{}{\thepage 
+                                           }}
+l.113 T
+       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{intalacionE}{{}{}}
+]
 Missing character: There is no T in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -5701,17 +5923,17 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 112--113
+Overfull \hbox (20.0pt too wide) in paragraph at lines 113--114
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 113--114
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 114--114
+Overfull \hbox (20.0pt too wide) in paragraph at lines 115--115
 [] 
  []
 
@@ -5751,7 +5973,7 @@ Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:figura11' on page \thepage 
                                                   \space undefined\on@line .
-l.115 ...xtbf{xampp\_start.exe} \ref{fig:figura11}
+l.116 ...xtbf{xampp\_start.exe} \ref{fig:figura11}
                                                   , clicaremos sobre ese eje...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5760,7 +5982,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:figura11' on page  undefined on input line 115.
+LaTeX Warning: Reference `fig:figura11' on page  undefined on input line 116.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -5861,121 +6083,20 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (81.77286pt too wide) in paragraph at lines 115--116
+Overfull \hbox (81.77286pt too wide) in paragraph at lines 116--117
 \OT1/cmr/bx/n/10 xampp[]start.exe
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 115--116
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 116--117
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 116--117
 \/cmr/m/n/10 o
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1{C:/Users/edu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-! Undefined control sequence.
-<write> \newlabel{ref:install}{{}{\thepage 
-                                           }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{ref:install}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Metamask1}{{}{\thepage 
-                                             }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Metamask1}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Metamask2}{{}{\thepage 
-                                             }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Metamask2}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Metamask3}{{}{\thepage 
-                                             }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Metamask3}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Metamask4}{{}{\thepage 
-                                             }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Metamask4}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig:Metamask5}{{}{\thepage 
-                                             }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig:Metamask5}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{intalacionE}{{}{\thepage 
-                                           }}
-l.116 	\item C
-              on esto se activaran los módulos de Apache y MySQL. Para cerc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{intalacionE}{{}{}}
-]
 Missing character: There is no C in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -6070,11 +6191,10 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
-
 ! Undefined control sequence.
 <write> ...erence `fig:figura11' on page \thepage 
                                                   \space undefined\on@line .
-l.116 ...bf{xampp\_control.exe} \ref{fig:figura11}
+l.117 ...bf{xampp\_control.exe} \ref{fig:figura11}
                                                    y ejecutar desde los coma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6083,7 +6203,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:figura11' on page  undefined on input line 116.
+LaTeX Warning: Reference `fig:figura11' on page  undefined on input line 117.
 
 Missing character: There is no y in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -6158,7 +6278,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:figura12' on page \thepage 
                                                   \space undefined\on@line .
-l.116 ...fosforito en la imagen \ref{fig:figura12}
+l.117 ...fosforito en la imagen \ref{fig:figura12}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6167,36 +6287,36 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:figura12' on page  undefined on input line 116.
+LaTeX Warning: Reference `fig:figura12' on page  undefined on input line 117.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 116--117
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 117--118
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 116--117
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 117--118
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (93.04922pt too wide) in paragraph at lines 116--117
+Overfull \hbox (93.04922pt too wide) in paragraph at lines 117--118
 \OT1/cmr/bx/n/10 xampp[]control.exe
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 116--117
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 117--118
 []
  []
 
 
-Overfull \hbox (33.12756pt too wide) in paragraph at lines 116--117
+Overfull \hbox (33.12756pt too wide) in paragraph at lines 117--118
 \OT1/cmr/m/it/10 START
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 116--117
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 117--118
 [] 
  []
 
@@ -6207,7 +6327,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.119 \begin{figure}
+l.120 \begin{figure}
                     [h!]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6218,7 +6338,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.123 		\includegraphics
+l.124 		\includegraphics
                         [width=\linewidth]{XAMPPautomatico}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6236,7 +6356,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.123 		\includegraphics[width=\linewidth]
+l.124 		\includegraphics[width=\linewidth]
                                           {XAMPPautomatico}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6245,7 +6365,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.123 		\includegraphics[width=\linewidth]
+l.124 		\includegraphics[width=\linewidth]
                                           {XAMPPautomatico}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6277,7 +6397,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.124 		\caption
+l.125 		\caption
                 {Ejecución de XAMPP automáticamente}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6312,17 +6432,17 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 123--126
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--127
  \/cmr/m/n/10 o 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 123--126
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 124--127
  \/cmr/m/n/10 a 
  []
 
 ! Undefined control sequence.
-l.129 		\includegraphics
+l.130 		\includegraphics
                         [width=\linewidth]{XAMPPmanual}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6340,7 +6460,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.129 		\includegraphics[width=\linewidth]
+l.130 		\includegraphics[width=\linewidth]
                                           {XAMPPmanual}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6349,7 +6469,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.129 		\includegraphics[width=\linewidth]
+l.130 		\includegraphics[width=\linewidth]
                                           {XAMPPmanual}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6377,7 +6497,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 		\caption
+l.131 		\caption
                 {Ejecución de XAMPP manualmente}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6409,7 +6529,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 129--132
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 130--133
  \/cmr/m/n/10 o 
  []
 
@@ -6420,14 +6540,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 \end{figure}
+l.134 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 119--134
+Overfull \hbox (20.0pt too wide) in paragraph at lines 120--135
 []
  []
 
@@ -6644,22 +6764,22 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (22.77779pt too wide) in paragraph at lines 136--137
+Overfull \hbox (22.77779pt too wide) in paragraph at lines 137--138
 []\/cmr/m/n/10 
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 136--137
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 137--138
 \/cmr/m/n/10 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 136--137
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 137--138
 \/cmr/m/n/10 o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 136--137
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 137--138
 \/cmr/m/n/10 a
  []
 
@@ -6752,7 +6872,7 @@ Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
 <write> ...Reference `ref:front' on page \thepage 
                                                   \space undefined\on@line .
-l.138 ...áfica \textit{Front-End} \ref{ref:front}
+l.139 ...áfica \textit{Front-End} \ref{ref:front}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6761,40 +6881,40 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `ref:front' on page  undefined on input line 138.
+LaTeX Warning: Reference `ref:front' on page  undefined on input line 139.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 138--139
+Overfull \hbox (20.0pt too wide) in paragraph at lines 139--140
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 139--140
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 139--140
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 139--140
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (27.09978pt too wide) in paragraph at lines 138--139
+Overfull \hbox (27.09978pt too wide) in paragraph at lines 139--140
 \OT1/cmr/m/it/10 Front-
  []
 
 
-Overfull \hbox (17.51657pt too wide) in paragraph at lines 138--139
+Overfull \hbox (17.51657pt too wide) in paragraph at lines 139--140
 \OT1/cmr/m/it/10 End
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 138--139
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 139--140
 [] 
  []
 
@@ -6880,7 +7000,7 @@ Missing character: There is no k in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `ref:install' on page \thepage 
                                                   \space undefined\on@line .
-l.140 ...s que instalar Metamask \ref{ref:install}
+l.141 ...s que instalar Metamask \ref{ref:install}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6889,20 +7009,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `ref:install' on page  undefined on input line 140.
+LaTeX Warning: Reference `ref:install' on page  undefined on input line 141.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 140--141
+Overfull \hbox (20.0pt too wide) in paragraph at lines 141--142
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 140--141
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--142
 \/cmr/m/n/10 a
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 140--141
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 141--142
 [] 
  []
 
@@ -7020,6 +7140,138 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.143 ...el archivo se llama nemonic metamask.txt}
+                                                   y a continuación nos des...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.143 ...el archivo se llama nemonic metamask.txt}
+                                                   y a continuación nos des...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (11.25003pt too wide) in paragraph at lines 143--143
+[][]\/cmr/m/n/10 La
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (31.75006pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 trase~na
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 la
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 ten-
+ []
+
+
+Overfull \hbox (31.1945pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 dremos
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 en
+ []
+
+
+Overfull \hbox (11.11115pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 un
+ []
+
+
+Overfull \hbox (31.41673pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 archivo
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 en
+ []
+
+
+Overfull \hbox (7.22223pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 el
+ []
+
+
+Overfull \hbox (17.84724pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 Git-
+ []
+
+
+Overfull \hbox (16.8056pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 Lab
+ []
+
+
+Overfull \hbox (5.2778pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 y
+ []
+
+
+Overfull \hbox (35.90286pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 GitHub,
+ []
+
+
+Overfull \hbox (7.22223pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 el
+ []
+
+
+Overfull \hbox (31.41673pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 archivo
+ []
+
+
+Overfull \hbox (8.38889pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 se
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 llama
+ []
+
+
+Overfull \hbox (36.11119pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 nemonic
+ []
+
+
+Overfull \hbox (25.00005pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 meta-
+ []
+
+
+Overfull \hbox (38.389pt too wide) in paragraph at lines 143--143
+\/cmr/m/n/10 mask.txt| 
+ []
+
 Missing character: There is no y in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -7136,8 +7388,8 @@ Missing character: There is no . in font nullfont!
  
 Here is how much of TeX's memory you used:
  63 strings out of 492945
- 990 string characters out of 3127140
- 67397 words of memory out of 3000000
+ 968 string characters out of 3127140
+ 67376 words of memory out of 3000000
  4053 multiletter control sequences out of 15000+200000
  4294 words of font info for 16 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191

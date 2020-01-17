@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 15:04
 entering extended mode
 **./anexo.tex
 (anexo.tex
@@ -1660,48 +1660,48 @@ Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 <./img/Metamask1.png, id=899, 285.31593pt x 230.36063pt>
 File: ./img/Metamask1.png Graphic file (type png)
 <use ./img/Metamask1.png>
-Package pdftex.def Info: ./img/Metamask1.png  used on input line 48.
+Package pdftex.def Info: ./img/Metamask1.png  used on input line 49.
 (pdftex.def)             Requested size: 191.5pt x 154.61497pt.
 <./img/Metamask2.png, id=900, 640.64343pt x 365.86688pt>
 File: ./img/Metamask2.png Graphic file (type png)
 <use ./img/Metamask2.png>
-Package pdftex.def Info: ./img/Metamask2.png  used on input line 55.
+Package pdftex.def Info: ./img/Metamask2.png  used on input line 56.
 (pdftex.def)             Requested size: 191.5pt x 109.35895pt.
 <./img/Metamask3.png, id=901, 497.60907pt x 475.02469pt>
 File: ./img/Metamask3.png Graphic file (type png)
 <use ./img/Metamask3.png>
-Package pdftex.def Info: ./img/Metamask3.png  used on input line 61.
+Package pdftex.def Info: ./img/Metamask3.png  used on input line 62.
 (pdftex.def)             Requested size: 191.5pt x 182.80896pt.
 <./img/Metamask4.png, id=902, 416.30531pt x 481.8pt>
 File: ./img/Metamask4.png Graphic file (type png)
 <use ./img/Metamask4.png>
-Package pdftex.def Info: ./img/Metamask4.png  used on input line 68.
+Package pdftex.def Info: ./img/Metamask4.png  used on input line 69.
 (pdftex.def)             Requested size: 191.5pt x 221.63068pt.
 <./img/Metamask5.png, id=903, 381.67593pt x 272.51813pt>
 File: ./img/Metamask5.png Graphic file (type png)
 <use ./img/Metamask5.png>
-Package pdftex.def Info: ./img/Metamask5.png  used on input line 74.
+Package pdftex.def Info: ./img/Metamask5.png  used on input line 75.
 (pdftex.def)             Requested size: 306.40117pt x 218.7799pt.
 
-Overfull \hbox (19.4485pt too wide) in paragraph at lines 46--78
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 47--79
 [][]   []
  []
 
 
-Overfull \hbox (19.4485pt too wide) in paragraph at lines 46--78
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 47--79
 []   []
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
  [33]
 Overfull \vbox (142.5255pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
 
 Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 
@@ -1711,45 +1711,45 @@ h4.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.79 
+l.80 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.A
 lph4.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.79 
+l.80 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.A
 lph4.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.79 
+l.80 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.A
 lph4.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.79 
+l.80 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.A
 lph4.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.79 
+l.80 
       <./img/Metamask1.png> <./img/Metamask2.png> <./img/Metamask3.png> <./img/
 Metamask4.png> <./img/Metamask5.png>]
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
  [35]
-<./img/XAMPPautomatico.png, id=948, 207.77625pt x 128.73094pt>
+<./img/XAMPPautomatico.png, id=950, 207.77625pt x 128.73094pt>
 File: ./img/XAMPPautomatico.png Graphic file (type png)
 <use ./img/XAMPPautomatico.png>
-Package pdftex.def Info: ./img/XAMPPautomatico.png  used on input line 123.
+Package pdftex.def Info: ./img/XAMPPautomatico.png  used on input line 124.
 (pdftex.def)             Requested size: 306.40117pt x 189.85878pt.
-<./img/XAMPPmanual.png, id=949, 509.65407pt x 188.20313pt>
+<./img/XAMPPmanual.png, id=951, 509.65407pt x 188.20313pt>
 File: ./img/XAMPPmanual.png Graphic file (type png)
 <use ./img/XAMPPmanual.png>
-Package pdftex.def Info: ./img/XAMPPmanual.png  used on input line 129.
+Package pdftex.def Info: ./img/XAMPPmanual.png  used on input line 130.
 (pdftex.def)             Requested size: 306.40117pt x 113.15247pt.
 
 
@@ -1791,7 +1791,7 @@ AMPPmanual.png>]
 
 
 ] [39]
-<./img/incioPag.png, id=981, 1023.825pt x 655.69969pt>
+<./img/incioPag.png, id=985, 1023.825pt x 655.69969pt>
 File: ./img/incioPag.png Graphic file (type png)
 <use ./img/incioPag.png>
 Package pdftex.def Info: ./img/incioPag.png  used on input line 33.
@@ -1809,7 +1809,7 @@ h5.1}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.39 
       <./img/incioPag.png>]
-<./img/registro.png, id=989, 1312.15219pt x 630.85687pt>
+<./img/registro.png, id=993, 1312.15219pt x 630.85687pt>
 File: ./img/registro.png Graphic file (type png)
 <use ./img/registro.png>
 Package pdftex.def Info: ./img/registro.png  used on input line 46.
@@ -1823,12 +1823,12 @@ ph5.2}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.54 
       <./img/registro.png>]
-<./img/recuperarCnt.png, id=1000, 873.2625pt x 450.9347pt>
+<./img/recuperarCnt.png, id=1004, 873.2625pt x 450.9347pt>
 File: ./img/recuperarCnt.png Graphic file (type png)
 <use ./img/recuperarCnt.png>
 Package pdftex.def Info: ./img/recuperarCnt.png  used on input line 57.
 (pdftex.def)             Requested size: 383.0pt x 197.77197pt.
-<./img/administrador.png, id=1002, 1298.60156pt x 574.39594pt>
+<./img/administrador.png, id=1006, 1298.60156pt x 574.39594pt>
 File: ./img/administrador.png Graphic file (type png)
 <use ./img/administrador.png>
 Package pdftex.def Info: ./img/administrador.png  used on input line 66.
@@ -1849,7 +1849,7 @@ h5.3}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.70 
       <./img/recuperarCnt.png>]
-<./img/editarAdmin.png, id=1012, 1343.77031pt x 552.56438pt>
+<./img/editarAdmin.png, id=1016, 1343.77031pt x 552.56438pt>
 File: ./img/editarAdmin.png Graphic file (type png)
 <use ./img/editarAdmin.png>
 Package pdftex.def Info: ./img/editarAdmin.png  used on input line 79.
@@ -1873,7 +1873,7 @@ File: ./img/confirmar.png Graphic file (type png)
 <use ./img/confirmar.png>
 Package pdftex.def Info: ./img/confirmar.png  used on input line 93.
 (pdftex.def)             Requested size: 268.09883pt x 67.18419pt.
-<./img/opciones.png, id=1023, 980.91469pt x 464.4853pt>
+<./img/opciones.png, id=1027, 980.91469pt x 464.4853pt>
 File: ./img/opciones.png Graphic file (type png)
 <use ./img/opciones.png>
 Package pdftex.def Info: ./img/opciones.png  used on input line 110.
@@ -1882,12 +1882,12 @@ Package pdftex.def Info: ./img/opciones.png  used on input line 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./img/metamask-pantalla.png, id=1026, 258.9675pt x 455.45157pt>
+<./img/metamask-pantalla.png, id=1030, 258.9675pt x 455.45157pt>
 File: ./img/metamask-pantalla.png Graphic file (type png)
 <use ./img/metamask-pantalla.png>
 Package pdftex.def Info: ./img/metamask-pantalla.png  used on input line 120.
 (pdftex.def)             Requested size: 191.5pt x 336.80649pt.
-<./img/metamask-conexion.png, id=1027, 257.46187pt x 426.09187pt>
+<./img/metamask-conexion.png, id=1031, 257.46187pt x 426.09187pt>
 File: ./img/metamask-conexion.png Graphic file (type png)
 <use ./img/metamask-conexion.png>
 Package pdftex.def Info: ./img/metamask-conexion.png  used on input line 127.
@@ -1932,22 +1932,22 @@ Alph5.9}) has been already used, duplicate ignored
 l.134 
        <./img/opciones.png> <./img/metamask-pantalla.png> <./img/metamask-conex
 ion.png>]
-<./img/anadirProdcuto1.png, id=1043, 1324.95pt x 581.17125pt>
+<./img/anadirProdcuto1.png, id=1047, 1324.95pt x 581.17125pt>
 File: ./img/anadirProdcuto1.png Graphic file (type png)
 <use ./img/anadirProdcuto1.png>
 Package pdftex.def Info: ./img/anadirProdcuto1.png  used on input line 137.
 (pdftex.def)             Requested size: 383.0pt x 167.9944pt.
-<./img/metamask-contrato.png, id=1045, 260.47313pt x 368.87813pt>
+<./img/metamask-contrato.png, id=1049, 260.47313pt x 368.87813pt>
 File: ./img/metamask-contrato.png Graphic file (type png)
 <use ./img/metamask-contrato.png>
 Package pdftex.def Info: ./img/metamask-contrato.png  used on input line 147.
 (pdftex.def)             Requested size: 191.5pt x 271.19814pt.
-<./img/metamask-pendiente.png, id=1046, 258.21469pt x 325.215pt>
+<./img/metamask-pendiente.png, id=1050, 258.21469pt x 325.215pt>
 File: ./img/metamask-pendiente.png Graphic file (type png)
 <use ./img/metamask-pendiente.png>
 Package pdftex.def Info: ./img/metamask-pendiente.png  used on input line 154.
 (pdftex.def)             Requested size: 191.5pt x 241.19623pt.
-<./img/metamask-cofnirmado.png, id=1047, 259.7203pt x 64.74188pt>
+<./img/metamask-cofnirmado.png, id=1051, 259.7203pt x 64.74188pt>
 File: ./img/metamask-cofnirmado.png Graphic file (type png)
 <use ./img/metamask-cofnirmado.png>
 Package pdftex.def Info: ./img/metamask-cofnirmado.png  used on input line 160.
@@ -1996,12 +1996,12 @@ l.180  \end{itemize}
 l.180  \end{itemize}
                      <./img/metamask-contrato.png> <./img/metamask-pendiente.pn
 g> <./img/metamask-cofnirmado.png>]
-<./img/etherscan.png, id=1065, 950.80219pt x 466.74374pt>
+<./img/etherscan.png, id=1069, 950.80219pt x 466.74374pt>
 File: ./img/etherscan.png Graphic file (type png)
 <use ./img/etherscan.png>
 Package pdftex.def Info: ./img/etherscan.png  used on input line 183.
 (pdftex.def)             Requested size: 383.0pt x 188.01173pt.
-<./img/datos-etherscan.png, id=1066, 947.79094pt x 592.46344pt>
+<./img/datos-etherscan.png, id=1070, 947.79094pt x 592.46344pt>
 File: ./img/datos-etherscan.png Graphic file (type png)
 <use ./img/datos-etherscan.png>
 Package pdftex.def Info: ./img/datos-etherscan.png  used on input line 189.
@@ -2025,12 +2025,12 @@ Alph5.15}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.196 
        <./img/etherscan.png> <./img/datos-etherscan.png>]
-<./img/ultimoContrato.png, id=1074, 1279.78125pt x 532.23843pt>
+<./img/ultimoContrato.png, id=1078, 1279.78125pt x 532.23843pt>
 File: ./img/ultimoContrato.png Graphic file (type png)
 <use ./img/ultimoContrato.png>
 Package pdftex.def Info: ./img/ultimoContrato.png  used on input line 203.
 (pdftex.def)             Requested size: 306.40117pt x 127.4231pt.
-<./img/todosContratos.png, id=1075, 1294.08469pt x 630.10406pt>
+<./img/todosContratos.png, id=1079, 1294.08469pt x 630.10406pt>
 File: ./img/todosContratos.png Graphic file (type png)
 <use ./img/todosContratos.png>
 Package pdftex.def Info: ./img/todosContratos.png  used on input line 209.
@@ -2085,6 +2085,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  . creately . com / diagram /
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\T1/lmr/m/n/12 (+20) GitLab, [][]$\T1/lmtt/m/n/12 https : / / gitlab . com / 
+HP-[]SCDS / Observatorio / 2018-[]2019 /
+ []
+
 )
 
 Class memoir Warning: The material used in the headers is too large
@@ -2128,10 +2134,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) 
 Here is how much of TeX's memory you used:
- 13405 strings out of 492945
- 200213 string characters out of 3127140
- 381859 words of memory out of 3000000
- 16656 multiletter control sequences out of 15000+200000
+ 13409 strings out of 492945
+ 200121 string characters out of 3127140
+ 381915 words of memory out of 3000000
+ 16658 multiletter control sequences out of 15000+200000
  108072 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,45p,902b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2154,9 +2160,9 @@ e1/public/lm/lmsso17.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/lm/lmsy10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/lm/lmtt10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/lm/lmtt12.pfb>
-Output written on anexo.pdf (59 pages, 6547866 bytes).
+Output written on anexo.pdf (59 pages, 6551193 bytes).
 PDF statistics:
- 1208 PDF objects out of 1440 (max. 8388607)
- 225 named destinations out of 1000 (max. 500000)
+ 1215 PDF objects out of 1440 (max. 8388607)
+ 227 named destinations out of 1000 (max. 500000)
  28570 words of extra memory for PDF output out of 29859 (max. 10000000)
 
