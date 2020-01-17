@@ -80,7 +80,7 @@
 \contentsline {subsection}{\textit {XAMPP}}{45}{section*.48}% 
 \contentsline {section}{\numberline {4.4}Control de versiones y documentaci\IeC {\'o}n}{46}{section.4.4}% 
 \contentsline {subsection}{\textit {L\IeC {\'a}tex}}{46}{section*.49}% 
-\contentsline {subsection}{\textit {GitLab}}{46}{section*.50}% 
+\contentsline {subsection}{\textit {GitLab y GitHub}}{46}{section*.50}% 
 \contentsline {chapter}{Aspectos relevantes del desarrollo del proyecto}{47}{chapter*.51}% 
 \contentsline {section}{\numberline {5.1}Comienzo del proyecto}{47}{section.5.1}% 
 \contentsline {section}{\numberline {5.2}Primeras sesiones}{48}{section.5.2}% 

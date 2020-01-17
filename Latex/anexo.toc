@@ -19,15 +19,15 @@
 \contentsline {subsection}{Sprint 10 (12/12/19 - 20/12/2019)}{6}{section*.14}% 
 \contentsline {subsection}{Sprint 11 (20/12/2019 - entrega proyecto)}{7}{section*.15}% 
 \contentsline {subsection}{Resumen}{7}{section*.16}% 
-\contentsline {section}{\numberline {A.3}Estudio de viabilidad}{12}{section.Alph1.3}% 
-\contentsline {subsection}{Viabilidad econ\IeC {\'o}mica}{12}{section*.17}% 
-\contentsline {subsubsection}{Coste de personal}{12}{section*.18}% 
-\contentsline {subsubsection}{Coste inform\IeC {\'a}tico}{13}{section*.19}% 
-\contentsline {paragraph}{Coste de hardware}{13}{section*.20}% 
-\contentsline {paragraph}{Coste de software}{13}{section*.21}% 
-\contentsline {subsubsection}{Coste de total}{13}{section*.22}% 
-\contentsline {subsubsection}{Beneficio}{14}{section*.23}% 
-\contentsline {subsection}{Viabilidad legal}{14}{section*.24}% 
+\contentsline {section}{\numberline {A.3}Estudio de viabilidad}{11}{section.Alph1.3}% 
+\contentsline {subsection}{Viabilidad econ\IeC {\'o}mica}{11}{section*.17}% 
+\contentsline {subsubsection}{Coste de personal}{11}{section*.18}% 
+\contentsline {subsubsection}{Coste inform\IeC {\'a}tico}{12}{section*.19}% 
+\contentsline {paragraph}{Coste de hardware}{12}{section*.20}% 
+\contentsline {paragraph}{Coste de software}{12}{section*.21}% 
+\contentsline {subsubsection}{Coste de total}{12}{section*.22}% 
+\contentsline {subsubsection}{Beneficio}{13}{section*.23}% 
+\contentsline {subsection}{Viabilidad legal}{13}{section*.24}% 
 \contentsline {appendix}{\chapternumberline {B}Especificaci\IeC {\'o}n de Requisitos}{15}{appendix.Alph2}% 
 \contentsline {section}{\numberline {B.1}Introducci\IeC {\'o}n}{15}{section.Alph2.1}% 
 \contentsline {section}{\numberline {B.2}Objetivos generales}{15}{section.Alph2.2}% 
