@@ -1,0 +1,2179 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 10:33
+entering extended mode
+**./anexo.tex
+(anexo.tex
+LaTeX2e <2018-12-01>
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memoir.cls"
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty
+"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifetex\ifetex.sty"
+Package: ifetex 2018/03/31 v1.2a ifetex
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/plain/ifetex\ifetex.tex")
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.st
+y"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.
+sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem12.clo"
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen107
+\ar@mcellbox=\box27
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\ar@cellbox=\box28
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\delarray.sty"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
+"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box29
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box30
+\m@mscap@fbox=\box31
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/04/01 3.28 The Babel package
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spanis
+h.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count138
+\U@D=\dimen147
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def
+")
+\bbl@dirlevel=\count139
+)
+\es@quottoks=\toks22
+\es@quotdepth=\count140
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype.
+sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\MT@toks=\toks26
+\MT@count=\count141
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count142
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype-
+pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip185
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype.
+cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
+))
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/placeins\placeins.st
+y"
+Package: placeins 2005/04/18  v 2.2
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.c
+fg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.
+def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.st
+y"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+\everycr=\toks27
+\minrowclearance=\skip186
+)
+\rownum=\count143
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xtab\xtab.sty"
+Package: xtab 2011/07/31 v2.3f Extended supertabular package
+\c@tracingst=\count144
+\PWSTcapht=\dimen149
+\ST@wd=\dimen150
+\ST@rightskip=\skip187
+\ST@leftskip=\skip188
+\ST@parfillskip=\skip189
+\c@PWSTtable=\count145
+\PWSTlastpage=\count146
+\PWSTpenultimate=\count147
+\PWSTcurpage=\count148
+\PWSTtempc=\count149
+\PWSTlines=\count150
+\PWST@lastht=\dimen151
+\PWST@generalht=\dimen152
+\PWST@ht=\dimen153
+\ST@pageleft=\dimen154
+\ST@headht=\dimen155
+\ST@tailht=\dimen156
+\ST@pagesofar=\dimen157
+\ST@pboxht=\dimen158
+\ST@lineht=\dimen159
+\ST@stretchht=\dimen160
+\ST@prevht=\dimen161
+\ST@toadd=\dimen162
+\ST@dimen=\dimen163
+\ST@pbox=\box32
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.st
+y"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip190
+\multirow@cntb=\count151
+\multirow@dima=\skip191
+\bigstrutjot=\dimen164
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.st
+y"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hy
+perref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-ge
+neric.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty
+"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.s
+ty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count152
+\Hy@pagecounter=\count153
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count154
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.cf
+g"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count155
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen166
+\Fld@menulength=\count156
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count157
+\c@Item=\count158
+\c@Hfootnote=\count159
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memhfixc.sty"
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count160
+\c@Hpagenote=\count161
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def
+"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count162
+\c@bookmark@seq@number=\count163
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilech
+eck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip192
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip193
+For additional information on amsmath, use the `?' option.
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen169
+)) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen170
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count164
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count165
+\leftroot@=\count166
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count167
+\DOTSCASE@=\count168
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen171
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count169
+\c@MaxMatrixCols=\count170
+\dotsspace@=\muskip11
+\c@parentequation=\count171
+\dspbrk@lvl=\count172
+\tag@help=\toks29
+\row@=\count173
+\column@=\count174
+\maxfields@=\count175
+\andhelp@=\toks30
+\eqnshift@=\dimen172
+\alignsep@=\dimen173
+\tagshift@=\dimen174
+\tagwidth@=\dimen175
+\totwidth@=\dimen176
+\lineht@=\dimen177
+\@envbody=\toks31
+\multlinegap=\skip194
+\multlinetaggap=\skip256
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.st
+y"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.st
+y"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphic
+s.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen180
+\WF@size=\dimen181
+\c@WF@wrappedlines=\count176
+\WF@box=\box35
+\WF@everypar=\toks33
+Package: wrapfig 2003/01/31  v 3.6
+) ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count177
+\float@exts=\toks34
+\float@box=\box36
+\@float@everytoks=\toks35
+\@floatcapt=\box37
+)
+(anexo.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (tex/A_Plan_proyecto.aux) (tex/B_Requisitos.aux) (tex/C_Diseno.aux)
+(tex/D_Manual_programador.aux) (tex/E_Manual_usuario.aux))
+\openout1 = `anexo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 356.
+LaTeX Font Info:    ... okay on input line 356.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 356.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \. on input line 356.
+LaTeX Info: Redefining \% on input line 356.
+LaTeX Info: Redefining \microtypecontext on input line 356.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr.cfg
+"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf
+.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count178
+\scratchdimen=\dimen182
+\scratchbox=\box38
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen183
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks37
+)
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-ba
+se.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box39
+Package hyperref Info: Link coloring ON on input line 356.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty
+"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitles
+tring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count184
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 356.
+LaTeX Info: Redefining \ref on input line 356.
+LaTeX Info: Redefining \pageref on input line 356.
+LaTeX Info: Redefining \nameref on input line 356.
+(anexo.out) (anexo.out)
+\@outlinefile=\write4
+\openout4 = `anexo.out'.
+
+<cabecera.pdf, id=115, 617.67549pt x 135.51413pt>
+File: cabecera.pdf Graphic file (type pdf)
+<use cabecera.pdf>
+Package pdftex.def Info: cabecera.pdf  used on input line 358.
+(pdftex.def)             Requested size: 383.0pt x 84.02823pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 358.
+
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 358.
+
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 358
+.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 358
+.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 358.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 358.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 358.
+<escudoInfor.pdf, id=116, 618.11432pt x 737.07487pt>
+File: escudoInfor.pdf Graphic file (type pdf)
+<use escudoInfor.pdf>
+Package pdftex.def Info: escudoInfor.pdf  used on input line 358.
+(pdftex.def)             Requested size: 76.59883pt x 91.3356pt.
+
+Overfull \hbox (27.54143pt too wide) in paragraph at lines 358--358
+[][][][][][][] $[]$ 
+ []
+
+[1
+
+{C:/Users/edu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./cabecera.pd
+f> <./escudoInfor.pdf
+
+pdfTeX warning: pdflatex (file ./escudoInfor.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>] [2
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 373.
+
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (anexo.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 3.
+
+
+Package spanish Warning: Replacing `T1/lmr/bx/sc' by 
+(spanish)                faked small caps on input line 3.
+
+
+Package spanish Warning: Replacing `T1/lmr/bx/sc' by 
+(spanish)                faked small caps on input line 4.
+
+
+Package spanish Warning: Replacing `T1/lmr/bx/sc' by 
+(spanish)                faked small caps on input line 5.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+[1
+
+
+
+])
+LaTeX Info: Redefining \. on input line 374.
+LaTeX Info: Redefining \% on input line 374.
+
+
+Class memoir Warning: The material used in the headers is too large
+(15.35403pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 374.
+
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[2] (anexo.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [3
+
+])
+LaTeX Info: Redefining \. on input line 378.
+LaTeX Info: Redefining \% on input line 378.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[4] (anexo.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+) [5
+
+] [6
+
+
+]
+\openout2 = `./tex/A_Plan_proyecto.aux'.
+
+ (tex/A_Plan_proyecto.tex
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 	\item C
+             on cada sprint se planifican las tareas a realizar y el tiempo ...
+[1
+
+
+]
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \end{itemize}
+                   [2]
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[3]
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[4]
+LaTeX Info: Redefining \. on input line 151.
+LaTeX Info: Redefining \% on input line 151.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[5]
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[6]
+<./img/quesitoTiempo.png, id=690, 560.0925pt x 303.38344pt>
+File: ./img/quesitoTiempo.png Graphic file (type png)
+<use ./img/quesitoTiempo.png>
+Package pdftex.def Info: ./img/quesitoTiempo.png  used on input line 223.
+(pdftex.def)             Requested size: 306.40117pt x 165.97258pt.
+
+
+LaTeX Warning: Reference `tabla:sprint2' on page 7 undefined on input line 228.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T1/lmr/bx/sc/12 Sprint-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T1/lmr/bx/sc/12 Fechas
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 233--233
+\T1/lmr/bx/sc/12 de las
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 234--234
+[]|\T1/lmr/m/n/12 (-20) 24/10/18
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 234--234
+\T1/lmr/m/n/12 (-20) 24/10/18| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 238--238
+[]|\T1/lmr/m/n/12 (-20) 16/11/18
+ []
+
+
+Overfull \hbox (2.79332pt too wide) in paragraph at lines 238--238
+\T1/lmr/m/n/12 (-20) 15/01/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 243--243
+[]|\T1/lmr/m/n/12 (-20) 15/01/19
+ []
+
+
+Overfull \hbox (2.79332pt too wide) in paragraph at lines 243--243
+\T1/lmr/m/n/12 (-20) 12/02/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 246--246
+[]|\T1/lmr/m/n/12 (-20) 12/02/19
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 246--246
+\T1/lmr/m/n/12 (-20) 28/02/19| 
+ []
+
+
+Overfull \hbox (1.72348pt too wide) in paragraph at lines 231--251
+[][]
+ []
+
+LaTeX Info: Redefining \. on input line 254.
+LaTeX Info: Redefining \% on input line 254.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{table.Alph1
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.254 
+      ]
+Overfull \vbox (37.03888pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 254.
+LaTeX Info: Redefining \% on input line 254.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph
+1.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.254 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.A
+lph1.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.254 
+       <./img/quesitoTiempo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]|\T1/lmr/bx/sc/12 Sprint-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]|\T1/lmr/bx/sc/12 Fechas
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 258--258
+\T1/lmr/bx/sc/12 de las
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 259--259
+[]|\T1/lmr/m/n/12 (-20) 28/02/19
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 259--259
+\T1/lmr/m/n/12 (-20) 29/03/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 262--262
+[]|\T1/lmr/m/n/12 (-20) 29/03/19
+ []
+
+
+Overfull \hbox (3.38081pt too wide) in paragraph at lines 262--262
+\T1/lmr/m/n/12 (-20) 08/04/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 266--266
+[]|\T1/lmr/m/n/12 (-20) 08/04/19
+ []
+
+
+Overfull \hbox (3.38081pt too wide) in paragraph at lines 266--266
+\T1/lmr/m/n/12 (-20) 02/05/19| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\T1/lmr/m/n/12 (+20) Sprint
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 272--272
+[]|\T1/lmr/m/n/12 (-20) 02/05/19
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 272--272
+\T1/lmr/m/n/12 (-20) 23/10/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 276--276
+[]|\T1/lmr/m/n/12 (-20) 23/10/19
+ []
+
+
+Overfull \hbox (2.79332pt too wide) in paragraph at lines 276--276
+\T1/lmr/m/n/12 (-20) 18/11/19| 
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 279--279
+[]|\T1/lmr/m/n/12 (-20) 18/11/19
+ []
+
+
+Overfull \hbox (2.79332pt too wide) in paragraph at lines 279--279
+\T1/lmr/m/n/12 (-20) 12/12/19| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\T1/lmr/m/n/12 (+20) Sprint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+\T1/lmr/m/n/12 (+20) 10: 55
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 290--290
+[]|\T1/lmr/m/n/12 (-20) 12/12/19
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 290--290
+\T1/lmr/m/n/12 (-20) 20/12/19| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]|\T1/lmr/m/n/12 (+20) Sprint
+ []
+
+
+Overfull \hbox (3.08707pt too wide) in paragraph at lines 293--293
+[]|\T1/lmr/m/n/12 (-20) 20/12/19
+ []
+
+
+Overfull \hbox (1.72348pt too wide) in paragraph at lines 256--297
+[][]
+ []
+
+
+Overfull \vbox (31.13275pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{table.Alph1
+.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.300 
+      ]
+<./img/dig-gantt-copia.png, id=711, 237.13594pt x 633.86812pt>
+File: ./img/dig-gantt-copia.png Graphic file (type png)
+<use ./img/dig-gantt-copia.png>
+Package pdftex.def Info: ./img/dig-gantt-copia.png  used on input line 305.
+(pdftex.def)             Requested size: 383.0pt x 1023.80438pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 309.
+LaTeX Info: Redefining \% on input line 309.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[10]
+Overfull \vbox (477.6377pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 309.
+LaTeX Info: Redefining \% on input line 309.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h1.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.309 
+       <./img/dig-gantt-copia.png>]
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+1.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.365 \paragraph
+                {Coste de hardware}]
+Underfull \vbox (badness 6575) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 392.
+LaTeX Info: Redefining \% on input line 392.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{table.Alp
+h1.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 
+      ])
+LaTeX Info: Redefining \. on input line 388.
+LaTeX Info: Redefining \% on input line 388.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[14pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+1.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.388 \include{./tex/A_Plan_proyecto}
+                                     ]
+\openout2 = `./tex/B_Requisitos.aux'.
+
+ (tex/B_Requisitos.tex [15
+
+
+
+]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[16]
+<./img/CUAdmin.png, id=773, 271.76532pt x 230.36063pt>
+File: ./img/CUAdmin.png Graphic file (type png)
+<use ./img/CUAdmin.png>
+Package pdftex.def Info: ./img/CUAdmin.png  used on input line 54.
+(pdftex.def)             Requested size: 271.76465pt x 230.36005pt.
+<./img/CUUsuario.png, id=774, 573.64313pt x 397.485pt>
+File: ./img/CUUsuario.png Graphic file (type png)
+<use ./img/CUUsuario.png>
+Package pdftex.def Info: ./img/CUUsuario.png  used on input line 58.
+(pdftex.def)             Requested size: 344.69766pt x 238.85068pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h2.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.58 ...rio}{Diagrama de casos de uso del usuario}
+                                                   <./img/CUAdmin.png>]
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 66--75
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 82--91
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 98--107
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 114--123
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 130--139
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 162--171
+ [] 
+ []
+
+
+Overfull \hbox (1.69719pt too wide) in paragraph at lines 178--187
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h2.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.Alph2.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                   <./img/CUUsuario.png>]
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+2.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.Alph2.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  ]
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[20pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+2.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.Alph2.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  ]
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[21pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+2.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.Alph2.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  ]
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[22pdfTeX warning (ext4): destination with the same identifier (name{table.Alph
+2.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.389 \include{./tex/B_Requisitos}
+                                  ]
+\openout2 = `./tex/C_Diseno.aux'.
+
+ (tex/C_Diseno.tex
+<./img/modeloER.png, id=807, 944.02687pt x 266.49562pt>
+File: ./img/modeloER.png Graphic file (type png)
+<use ./img/modeloER.png>
+Package pdftex.def Info: ./img/modeloER.png  used on input line 28.
+(pdftex.def)             Requested size: 383.0pt x 108.12125pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23
+
+
+
+]
+<./img/loginBD.png, id=814, 137.01187pt x 155.07938pt>
+File: ./img/loginBD.png Graphic file (type png)
+<use ./img/loginBD.png>
+Package pdftex.def Info: ./img/loginBD.png  used on input line 42.
+(pdftex.def)             Requested size: 229.80234pt x 260.1269pt.
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h3.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 	\item \textit
+                   {User}: donde se guarda el valor del usuario registrado.pdfT
+eX warning (ext4): destination with the same identifier (name{figure.Alph3.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 	\item \textit
+                   {User}: donde se guarda el valor del usuario registrado. <./
+img/modeloER.png> <./img/loginBD.png>]
+<./img/productoBD.png, id=822, 175.40532pt x 216.81pt>
+File: ./img/productoBD.png Graphic file (type png)
+<use ./img/productoBD.png>
+Package pdftex.def Info: ./img/productoBD.png  used on input line 59.
+(pdftex.def)             Requested size: 306.40117pt x 378.79129pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+[25]
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h3.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 	\item \textit
+                   {DestinoProdcuto}: es lo mismo que el origenProdcuto, per...
+ <./img/productoBD.png>]
+<./img/diagramaFlujo.png, id=833, 873.2625pt x 951.555pt>
+File: ./img/diagramaFlujo.png Graphic file (type png)
+<use ./img/diagramaFlujo.png>
+Package pdftex.def Info: ./img/diagramaFlujo.png  used on input line 88.
+(pdftex.def)             Requested size: 229.80234pt x 250.404pt.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+ [27pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph3.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.94 
+      <./img/diagramaFlujo.png>]
+<./img/funcionamientoPag.png, id=840, 633.0852pt x 224.5188pt>
+File: ./img/funcionamientoPag.png Graphic file (type png)
+<use ./img/funcionamientoPag.png>
+Package pdftex.def Info: ./img/funcionamientoPag.png  used on input line 97.
+(pdftex.def)             Requested size: 383.0pt x 135.82913pt.
+LaTeX Info: Redefining \. on input line 139.
+LaTeX Info: Redefining \% on input line 139.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h3.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.139 
+       <./img/funcionamientoPag.png>]
+<./img/error.png, id=853, 327.47343pt x 84.315pt>
+File: ./img/error.png Graphic file (type png)
+<use ./img/error.png>
+Package pdftex.def Info: ./img/error.png  used on input line 147.
+(pdftex.def)             Requested size: 191.5pt x 49.3054pt.
+<./img/correcto.png, id=854, 326.72063pt x 77.53969pt>
+File: ./img/correcto.png Graphic file (type png)
+<use ./img/correcto.png>
+Package pdftex.def Info: ./img/correcto.png  used on input line 154.
+(pdftex.def)             Requested size: 191.5pt x 45.44748pt.
+<./img/confirmar.png, id=855, 321.45094pt x 80.55093pt>
+File: ./img/confirmar.png Graphic file (type png)
+<use ./img/confirmar.png>
+Package pdftex.def Info: ./img/confirmar.png  used on input line 161.
+(pdftex.def)             Requested size: 191.5pt x 47.988pt.
+
+Overfull \hbox (13.75804pt too wide) in paragraph at lines 145--165
+[][]   [] 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 390.
+LaTeX Info: Redefining \% on input line 390.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h3.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.390 \include{./tex/C_Diseno}
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.Alph3.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.390 \include{./tex/C_Diseno}
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.Alph3.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.390 \include{./tex/C_Diseno}
+                               <./img/error.png> <./img/correcto.png> <./img/co
+nfirmar.png>]
+\openout2 = `./tex/D_Manual_programador.aux'.
+
+ (tex/D_Manual_programador.tex [30
+
+
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 11.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 11.
+
+("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+[31]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 25.
+ ("C:\Users\edu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 25.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[32]
+<./img/Metamask1.png, id=896, 285.31593pt x 230.36063pt>
+File: ./img/Metamask1.png Graphic file (type png)
+<use ./img/Metamask1.png>
+Package pdftex.def Info: ./img/Metamask1.png  used on input line 48.
+(pdftex.def)             Requested size: 191.5pt x 154.61497pt.
+<./img/Metamask2.png, id=897, 640.64343pt x 365.86688pt>
+File: ./img/Metamask2.png Graphic file (type png)
+<use ./img/Metamask2.png>
+Package pdftex.def Info: ./img/Metamask2.png  used on input line 55.
+(pdftex.def)             Requested size: 191.5pt x 109.35895pt.
+<./img/Metamask3.png, id=898, 497.60907pt x 475.02469pt>
+File: ./img/Metamask3.png Graphic file (type png)
+<use ./img/Metamask3.png>
+Package pdftex.def Info: ./img/Metamask3.png  used on input line 61.
+(pdftex.def)             Requested size: 191.5pt x 182.80896pt.
+<./img/Metamask4.png, id=899, 416.30531pt x 481.8pt>
+File: ./img/Metamask4.png Graphic file (type png)
+<use ./img/Metamask4.png>
+Package pdftex.def Info: ./img/Metamask4.png  used on input line 68.
+(pdftex.def)             Requested size: 191.5pt x 221.63068pt.
+<./img/Metamask5.png, id=900, 381.67593pt x 272.51813pt>
+File: ./img/Metamask5.png Graphic file (type png)
+<use ./img/Metamask5.png>
+Package pdftex.def Info: ./img/Metamask5.png  used on input line 74.
+(pdftex.def)             Requested size: 306.40117pt x 218.7799pt.
+
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 46--78
+[][]   []
+ []
+
+
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 46--78
+[]   []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [33]
+Overfull \vbox (142.5255pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h4.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+lph4.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+lph4.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+lph4.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+lph4.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.79 
+      <./img/Metamask1.png> <./img/Metamask2.png> <./img/Metamask3.png> <./img/
+Metamask4.png> <./img/Metamask5.png>]
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+ [35]
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[][] [][][][][]$\T1/lmtt/m/n/10 https : / / gitlab . com / HP-[]SCDS / Observat
+orio / 2018-[]2019 /
+ []
+
+<./img/XAMPPautomatico.png, id=943, 207.77625pt x 128.73094pt>
+File: ./img/XAMPPautomatico.png Graphic file (type png)
+<use ./img/XAMPPautomatico.png>
+Package pdftex.def Info: ./img/XAMPPautomatico.png  used on input line 123.
+(pdftex.def)             Requested size: 306.40117pt x 189.85878pt.
+<./img/XAMPPmanual.png, id=944, 509.65407pt x 188.20313pt>
+File: ./img/XAMPPmanual.png Graphic file (type png)
+<use ./img/XAMPPmanual.png>
+Package pdftex.def Info: ./img/XAMPPmanual.png  used on input line 129.
+(pdftex.def)             Requested size: 306.40117pt x 113.15247pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+LaTeX Info: Redefining \. on input line 391.
+LaTeX Info: Redefining \% on input line 391.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[36]
+LaTeX Info: Redefining \. on input line 391.
+LaTeX Info: Redefining \% on input line 391.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h4.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.391 \include{./tex/D_Manual_programador}
+                                          pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.Alph4.7}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.391 \include{./tex/D_Manual_programador}
+                                           <./img/XAMPPautomatico.png> <./img/X
+AMPPmanual.png>]
+\openout2 = `./tex/E_Manual_usuario.aux'.
+
+ (tex/E_Manual_usuario.tex [38
+
+
+
+] [39]
+<./img/incioPag.png, id=975, 1023.825pt x 655.69969pt>
+File: ./img/incioPag.png Graphic file (type png)
+<use ./img/incioPag.png>
+Package pdftex.def Info: ./img/incioPag.png  used on input line 33.
+(pdftex.def)             Requested size: 383.0pt x 245.28647pt.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[40pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h5.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.39 
+      <./img/incioPag.png>]
+<./img/registro.png, id=983, 1312.15219pt x 630.85687pt>
+File: ./img/registro.png Graphic file (type png)
+<use ./img/registro.png>
+Package pdftex.def Info: ./img/registro.png  used on input line 46.
+(pdftex.def)             Requested size: 383.0pt x 184.13744pt.
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [41pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph5.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.54 
+      <./img/registro.png>]
+<./img/recuperarCnt.png, id=994, 873.2625pt x 450.9347pt>
+File: ./img/recuperarCnt.png Graphic file (type png)
+<use ./img/recuperarCnt.png>
+Package pdftex.def Info: ./img/recuperarCnt.png  used on input line 57.
+(pdftex.def)             Requested size: 383.0pt x 197.77197pt.
+<./img/administrador.png, id=996, 1298.60156pt x 574.39594pt>
+File: ./img/administrador.png Graphic file (type png)
+<use ./img/administrador.png>
+Package pdftex.def Info: ./img/administrador.png  used on input line 66.
+(pdftex.def)             Requested size: 383.0pt x 169.4015pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[42pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h5.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.70 
+      <./img/recuperarCnt.png>]
+<./img/editarAdmin.png, id=1006, 1343.77031pt x 552.56438pt>
+File: ./img/editarAdmin.png Graphic file (type png)
+<use ./img/editarAdmin.png>
+Package pdftex.def Info: ./img/editarAdmin.png  used on input line 79.
+(pdftex.def)             Requested size: 383.0pt x 157.4909pt.
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [43pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph5.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.A
+lph5.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+      <./img/administrador.png> <./img/editarAdmin.png>]
+File: ./img/confirmar.png Graphic file (type png)
+<use ./img/confirmar.png>
+Package pdftex.def Info: ./img/confirmar.png  used on input line 93.
+(pdftex.def)             Requested size: 268.09883pt x 67.18419pt.
+<./img/opciones.png, id=1017, 980.91469pt x 464.4853pt>
+File: ./img/opciones.png Graphic file (type png)
+<use ./img/opciones.png>
+Package pdftex.def Info: ./img/opciones.png  used on input line 110.
+(pdftex.def)             Requested size: 268.09883pt x 126.95068pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./img/metamask-pantalla.png, id=1020, 258.9675pt x 455.45157pt>
+File: ./img/metamask-pantalla.png Graphic file (type png)
+<use ./img/metamask-pantalla.png>
+Package pdftex.def Info: ./img/metamask-pantalla.png  used on input line 120.
+(pdftex.def)             Requested size: 191.5pt x 336.80649pt.
+<./img/metamask-conexion.png, id=1021, 257.46187pt x 426.09187pt>
+File: ./img/metamask-conexion.png Graphic file (type png)
+<use ./img/metamask-conexion.png>
+Package pdftex.def Info: ./img/metamask-conexion.png  used on input line 127.
+(pdftex.def)             Requested size: 191.5pt x 316.93495pt.
+
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 118--131
+[][]   [] 
+ []
+
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[44pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h5.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.132 
+      ]
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph5.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.134 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+Alph5.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.134 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+Alph5.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.134 
+       <./img/opciones.png> <./img/metamask-pantalla.png> <./img/metamask-conex
+ion.png>]
+<./img/anadirProdcuto1.png, id=1037, 1324.95pt x 581.17125pt>
+File: ./img/anadirProdcuto1.png Graphic file (type png)
+<use ./img/anadirProdcuto1.png>
+Package pdftex.def Info: ./img/anadirProdcuto1.png  used on input line 137.
+(pdftex.def)             Requested size: 383.0pt x 167.9944pt.
+<./img/metamask-contrato.png, id=1039, 260.47313pt x 368.87813pt>
+File: ./img/metamask-contrato.png Graphic file (type png)
+<use ./img/metamask-contrato.png>
+Package pdftex.def Info: ./img/metamask-contrato.png  used on input line 147.
+(pdftex.def)             Requested size: 191.5pt x 271.19814pt.
+<./img/metamask-pendiente.png, id=1040, 258.21469pt x 325.215pt>
+File: ./img/metamask-pendiente.png Graphic file (type png)
+<use ./img/metamask-pendiente.png>
+Package pdftex.def Info: ./img/metamask-pendiente.png  used on input line 154.
+(pdftex.def)             Requested size: 191.5pt x 241.19623pt.
+<./img/metamask-cofnirmado.png, id=1041, 259.7203pt x 64.74188pt>
+File: ./img/metamask-cofnirmado.png Graphic file (type png)
+<use ./img/metamask-cofnirmado.png>
+Package pdftex.def Info: ./img/metamask-cofnirmado.png  used on input line 160.
+
+(pdftex.def)             Requested size: 306.40117pt x 76.37794pt.
+
+Overfull \hbox (19.4485pt too wide) in paragraph at lines 145--164
+[][]   []
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 175.
+LaTeX Info: Redefining \% on input line 175.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h5.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.175 
+       <./img/anadirProdcuto1.png>]
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph5.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.180  \end{itemize}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.Alph5.12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.180  \end{itemize}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.Alph5.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.180  \end{itemize}
+                     <./img/metamask-contrato.png> <./img/metamask-pendiente.pn
+g> <./img/metamask-cofnirmado.png>]
+<./img/etherscan.png, id=1059, 950.80219pt x 466.74374pt>
+File: ./img/etherscan.png Graphic file (type png)
+<use ./img/etherscan.png>
+Package pdftex.def Info: ./img/etherscan.png  used on input line 183.
+(pdftex.def)             Requested size: 383.0pt x 188.01173pt.
+<./img/datos-etherscan.png, id=1060, 947.79094pt x 592.46344pt>
+File: ./img/datos-etherscan.png Graphic file (type png)
+<use ./img/datos-etherscan.png>
+Package pdftex.def Info: ./img/datos-etherscan.png  used on input line 189.
+(pdftex.def)             Requested size: 383.0pt x 239.413pt.
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[48pdfTeX warning (ext4): destination with the same identifier (name{figure.Alp
+h5.14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.196 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+Alph5.15}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.196 
+       <./img/etherscan.png> <./img/datos-etherscan.png>]
+<./img/ultimoContrato.png, id=1068, 1279.78125pt x 532.23843pt>
+File: ./img/ultimoContrato.png Graphic file (type png)
+<use ./img/ultimoContrato.png>
+Package pdftex.def Info: ./img/ultimoContrato.png  used on input line 203.
+(pdftex.def)             Requested size: 306.40117pt x 127.4231pt.
+<./img/todosContratos.png, id=1069, 1294.08469pt x 630.10406pt>
+File: ./img/todosContratos.png Graphic file (type png)
+<use ./img/todosContratos.png>
+Package pdftex.def Info: ./img/todosContratos.png  used on input line 209.
+(pdftex.def)             Requested size: 306.40117pt x 149.18976pt.
+)
+LaTeX Info: Redefining \. on input line 392.
+LaTeX Info: Redefining \% on input line 392.
+ [49pdfTeX warning (ext4): destination with the same identifier (name{figure.Al
+ph5.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \include{./tex/E_Manual_usuario}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{figure.Alph5.17}) has been already used, duplicate ign
+ored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \include{./tex/E_Manual_usuario}
+                                       <./img/ultimoContrato.png> <./img/todosC
+ontratos.png>]
+LaTeX Info: Redefining \. on input line 392.
+LaTeX Info: Redefining \% on input line 392.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[50] (anexo.bbl
+bibitemlist
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+[]\T1/lmr/m/n/12 (+20) Henrik Kni-berg, [][]$\T1/lmtt/m/n/12 http : / / www . p
+royectalis . com / wp-[]content /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\T1/lmr/m/n/12 (+20) Cotización se-guir-dad so-cial y sa-la-rio me-dio, [][]$
+\T1/lmtt/m/n/12 http : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\T1/lmtt/m/n/12 seg-[]social . es / wps / portal / wss / internet / Trabajadore
+s /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\T1/lmr/m/n/12 (+20) Diagrama de da-tos, [][]$\T1/lmtt/m/n/12 https : / / app
+ . creately . com / diagram /
+ []
+
+)
+
+Class memoir Warning: The material used in the headers is too large
+(15.35403pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 397.
+
+[51
+
+
+]
+\tf@toc=\write5
+\openout5 = `anexo.toc'.
+
+\tf@lof=\write6
+\openout6 = `anexo.lof'.
+
+\tf@lot=\write7
+\openout7 = `anexo.lot'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+ (anexo.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (tex/A_Plan_proyecto.aux) (tex/B_Requisitos.aux)
+(tex/C_Diseno.aux) (tex/D_Manual_programador.aux) (tex/E_Manual_usuario.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
+Package rerunfilecheck Info: File `anexo.out' has not changed.
+(rerunfilecheck)             Checksum: 0150B75383CF4A0429ADDDF0A319513B;2088.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
+ ) 
+Here is how much of TeX's memory you used:
+ 13403 strings out of 492945
+ 200216 string characters out of 3127140
+ 381855 words of memory out of 3000000
+ 16656 multiletter control sequences out of 15000+200000
+ 108072 words of font info for 135 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,12n,45p,902b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+{C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.en
+c}<C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.
+pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx8
+.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx
+i10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
+mcsc10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+m/lmr10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+lm/lmr12.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/lm/lmr17.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmr7.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmr8.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmri12.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmro12.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmssbx10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmsso17.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/lm/lmsy10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/lm/lmtt10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmtt12.pfb>
+Output written on anexo.pdf (59 pages, 6522290 bytes).
+PDF statistics:
+ 1202 PDF objects out of 1440 (max. 8388607)
+ 223 named destinations out of 1000 (max. 500000)
+ 28570 words of extra memory for PDF output out of 29859 (max. 10000000)
+

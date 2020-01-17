@@ -1,0 +1,56 @@
+\begin{thebibliography}{}
+	\bibitem{informacionB} Información Blockchain, \url{https://www.binance.vision/es/blockchain/history-of-blockchain}, 2019.
+	\bibitem{libro} Henrik Kniberg, \url{http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf}, 2019.
+	\bibitem{bitcoin} Bitcoin, breve introducción \url{https://bitcoin.org/es/}, 2019.
+	\bibitem{bitcoin1} Bitcoin, ¿qué es?, \url{https://www.queesbitcoin.info/}, 2019.
+	\bibitem{wiki:HashCash} HashCash, \url{https://www.queesbitcoin.info/}, 2019
+	\bibitem{ethereum} Ethereum,\url{https://es.wikipedia.org/wiki/Ethereum#cite_note-wall-2}, 2019.
+	\bibitem{ethereum1} ¿Que es y para que sirve \textit{Ethereum}?, \url{https://en.wikipedia.org/wiki/Ethereum}, 2019.
+	\bibitem{solidity} Solidity, \url{https://solidity-es.readthedocs.io/es/latest/}, 2019.
+	\bibitem{solidity1} Solidity, ¿Para que sirve?, \url{https://www.miethereum.com/smart-contracts/solidity/}, 2019.
+	\bibitem{solidity2} Solidity, más datos, \url{https://www.miethereum.com/smart-contracts/solidity/#toc6}, 2019.
+	\bibitem{truffle} Truffle, \url{https://www.trufflesuite.com/}, 2019.
+	
+	\bibitem{VisualStudio} Visual Stuido Code, \url{https://es.wikipedia.org/wiki/Visual_Studio_Code}, 2019.
+	\bibitem{VS-code} ¿PorquéV isual Stuido Code?, \url{https://blogs.itpro.es/eduardocloud/2016/08/22/visual-studio-code-que-es-y-que-no-es/}, 2019.
+	\bibitem{php1} PHP: introducción, \url{https://es.wikipedia.org/wiki/PHP}, 2019.
+	\bibitem{php} PHP: breve explicación, \url{https://www.deustoformacion.com/blog/programacion-diseno-web/7-caracteristicas-lenguaje-php-que-lo-convierten-uno-mas-potentes}, 2019.
+	\bibitem{xampp} Base de Datos XAMPP, \url{http://panamahitek.com/bases-de-datos-mysql-con-xampp/}, 2019.
+	\bibitem{truffle} Truffle, \url{https://www.trufflesuite.com/}, 2019.
+	\bibitem{dif:Ethereum:Bitcoin} Diferencia Ethereum vs Bitcoin, \url{https://www.luno.com/learn/es/article/whats-the-difference-between-bitcoin-and-ethereum}, 2019.
+	\bibitem{hyperledger} Hyperledger y proyectos de Hyperledger, \url{https://www.eleconomista.es/economia/noticias/8899454/01/18/Hyperledger-la-Blockchain-privada-que-todos-tenemos-que-conocer.html}, 2019.
+	\bibitem{blockcahin} Blockcahin, \url{http://cryptoparaprincipiantes.org/plataformas-de-desarrollo-blockchain.html#Que_es_Blockchain}, 2019
+	\bibitem{dapp} Dapp y tipos de Dapp, \url{https://www.miethereum.com/smart-contracts/dapps/#toc10}, 2019.
+	\bibitem{dapp1} ¿Que son las Dapp?, \url{https://iuta.education/noticias/que-es-una-dapp/},2019.
+	\bibitem{empresas} Empresas que apuestan por Blockchain, \url{https://criptotendencia.com/2018/02/18/que-empresas-estan-adoptando-la-tecnologia-blockchain/}, 2019.
+	\bibitem{smartContract} ¿Qué son los \textit{smart contract}?, \url{https://blockgeeks.com/guides/es/contratos-inteligentes/}, 2019.
+	\bibitem{smartContract1}, ¿Qué son los \textit{smart contract}?, \url{https://academy.bit2me.com/que-son-los-smart-contracts/},2019.
+	\bibitem{litecoin}, ¿Qué es \textit{litecoin}?, \url{https://efxto.com/divisas/criptomonedas/litecoin}, 2019.
+	\bibitem{tron} ¿Qué es \textit{tron}?, \url{https://www.brokeronline.es/tron/},2019.
+	\bibitem{neo} ¿Qué es \textit{neo}?, \url{https://www.criptolog.com/que-es-neo/}, 2019.
+	\bibitem{neo1} ¿Qué es \textit{neo}?" \url{https://www.fayerwayer.com/2018/04/neo-plataformas-blockchain/}, 2019.
+	\bibitem{waves} ¿Qué es \textit{waves}?, \url{https://coinlist.me/es/altcoins/waves/}, 2019.
+	\bibitem{eos} ¿Qué es \textit{EOS}?, \url{https://www.bitcobie.com/eos/}, 2019.
+	\bibitem{gas} ¿Qué es el \textit{Gas}?, \url{https://www.criptonoticias.com/criptopedia/que-es-ethereum-eth/}, 2019.
+	\bibitem{crowdfunding} ¿Qué es el \textit{crowdfunding}?", \url{https://en.wikipedia.org/wiki/Crowdfunding}, 2019.
+	\bibitem{gitlab} ¿Qué es \textit{GitLab}?, \url{https://es.wikipedia.org/wiki/GitLab}, 2019.
+	\bibitem{repositorio} Repositorio GitLab, \url{https://gitlab.com/HP-SCDS/Observatorio/2018-2019/ubu-bc4distribution/tree/paginaWeb}, 2019.
+	\bibitem{latex} ¿Qué es \textit{Latex}?, \url{https://www.latex-project.org/about/}, 2019.
+	\bibitem{html} ¿Qué es y para que se usa\textit{HTML}?, \url{https://es.wikipedia.org/wiki/HTML}, 2019.
+	\bibitem{css} CSS, ¿Qué es y para que se usa?\url{https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada}, 2019.
+	\bibitem{marcado} Lenguaje de marcado, ¿qué es?\url{https://es.wikipedia.org/wiki/Lenguaje_de_marcadoL}, 2019.
+	\bibitem{ganache} ¿Qué es y para que se usa \textit{ganache}?, \url{https://truffleframework.com/ganache},2019.
+	\bibitem{node} Node, ¿Qué es?, \url{https://es.wikipedia.org/wiki/Node.js},2019.
+	\bibitem{node1} Acerca de Node.js, \url{https://truffleframework.com/ganache},2019.
+	\bibitem{metamask} Metamask, \url{https://metamask.io/},2019.
+	\bibitem{metamask1} Metamask, como herrmienta \url{https://www.criptonoticias.com/aplicaciones/metamask-puente-ethereum-navegador/},2019.
+	\bibitem{pow} \textit{Proof of work} o prueba de trabajo, \url{https://academy.bit2me.com/que-es-proof-of-work-pow/}, 2019.
+	\bibitem{pos} \textit{Proof of stake} o prueba de participación, \url{https://es.wikipedia.org/wiki/Prueba_de_participaci%C3%B3n}, 2019.
+	\bibitem{remix} \textit{Remix}, ¿qué es?, \url{https://theethereum.wiki/w/index.php/Remix}, 2019.
+	\bibitem{crypto} \textit{CryptoZombies}, \url{https://cryptozombies.io/es/course/}, 2019.
+	\bibitem{shop} \textit{Pet-shop}, \url{https://truffleframework.com/tutorials/pet-shop}, 2019.
+	\bibitem{gatos} \textit{Crypto Kitties}, \url{https://www.criptonoticias.com/tutoriales/tutorial-cria-intercambia-cryptokitties-gatitos-viven-blockchain-ethereum/}, 2019.
+	\bibitem{brave} \textit{Brave}, \url{https://brave.com/}, 2019.
+	\bibitem{chromium} \textit{Chromium}, \url{https://es.wikipedia.org/wiki/Chromium_(navegador)}, 2019.
+	
+\end{thebibliography}
