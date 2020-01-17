@@ -1,55 +1,54 @@
 \BOOKMARK [0][-]{section*.1}{\315ndice general}{}% 1
 \BOOKMARK [0][-]{section*.2}{\315ndice de figuras}{}% 2
-\BOOKMARK [0][-]{section*.3}{\315ndice de tablas}{}% 3
-\BOOKMARK [0][-]{chapter*.4}{Introducci\363n}{}% 4
-\BOOKMARK [0][-]{chapter*.8}{Objetivos del proyecto}{}% 5
-\BOOKMARK [1][-]{section.2.1}{Objetivos T\351cnicos y Generales}{chapter*.8}% 6
-\BOOKMARK [0][-]{chapter*.9}{Conceptos te\363ricos Scrum}{}% 7
-\BOOKMARK [1][-]{section.3.1}{Introducci\363n}{chapter*.9}% 8
-\BOOKMARK [1][-]{section.3.2}{C\363mo hacemos las pilas de producto}{chapter*.9}% 9
-\BOOKMARK [1][-]{section.3.3}{C\363mo nos preparamos y planificamos un sprint}{chapter*.9}% 10
-\BOOKMARK [1][-]{section.3.4}{C\363mo comunicamos los sprint}{chapter*.9}% 11
-\BOOKMARK [1][-]{section.3.5}{C\363mo hacemos las pilas de sprint}{chapter*.9}% 12
-\BOOKMARK [1][-]{section.3.6}{C\363mo distribuimos la sala del equipo}{chapter*.9}% 13
-\BOOKMARK [1][-]{section.3.7}{C\363mo hacemos los scrums diarios}{chapter*.9}% 14
-\BOOKMARK [1][-]{section.3.8}{C\363mo hacemos la demo de sprint}{chapter*.9}% 15
-\BOOKMARK [1][-]{section.3.9}{C\363mo hacemos las retrospectivas de sprint}{chapter*.9}% 16
-\BOOKMARK [1][-]{section.3.10}{Descansos entre sprint}{chapter*.9}% 17
-\BOOKMARK [1][-]{section.3.11}{Planificaci\363n de entregas y los contratos de precio fijo}{chapter*.9}% 18
-\BOOKMARK [1][-]{section.3.12}{C\363mo combinamos Scrum con XP}{chapter*.9}% 19
-\BOOKMARK [1][-]{section.3.13}{C\363mo hacemos pruebas}{chapter*.9}% 20
-\BOOKMARK [1][-]{section.3.14}{C\363mo manejar m\372ltiples equipos Scrum}{chapter*.9}% 21
-\BOOKMARK [1][-]{section.3.15}{Asignaci\363n y distribuci\363n de las personas en los equipos}{chapter*.9}% 22
-\BOOKMARK [1][-]{section.3.16}{Lista de comprobaci\363n del Scrum M\341ster}{chapter*.9}% 23
-\BOOKMARK [0][-]{chapter*.15}{Conceptos te\363ricos Blockchain}{}% 24
-\BOOKMARK [1][-]{section.3.1}{Origen del blockchain}{chapter*.15}% 25
-\BOOKMARK [1][-]{section.3.2}{Que es blockchain}{chapter*.15}% 26
-\BOOKMARK [1][-]{section.3.3}{Proyectos que usan blockchain.}{chapter*.15}% 27
-\BOOKMARK [1][-]{section.3.4}{Bitcoin}{chapter*.15}% 28
-\BOOKMARK [1][-]{section.3.5}{Ethereum}{chapter*.15}% 29
-\BOOKMARK [1][-]{section.3.6}{Hyperledger}{chapter*.15}% 30
-\BOOKMARK [1][-]{section.3.7}{Plataforma de desarrollo: Solidity y D'app}{chapter*.15}% 31
-\BOOKMARK [1][-]{section.3.8}{Smart contracts}{chapter*.15}% 32
-\BOOKMARK [1][-]{section.3.9}{Plataformas de desarrollo}{chapter*.15}% 33
-\BOOKMARK [1][-]{section.3.10}{Diferencia entre Ethereum y Bitcoin}{chapter*.15}% 34
-\BOOKMARK [0][-]{chapter*.38}{T\351cnicas y herramientas}{}% 35
-\BOOKMARK [1][-]{section.4.1}{T\351cnicas utilizadas para el funcionamiento de la p\341gina WEB}{chapter*.38}% 36
-\BOOKMARK [1][-]{section.4.2}{T\351cnicas utilizadas para el la conexi\363n entre la web y nuestro Smart Contract}{chapter*.38}% 37
-\BOOKMARK [1][-]{section.4.3}{Herramientas utilizadas para el funcionamiento de la p\341gina web, funcionando con base de datos}{chapter*.38}% 38
-\BOOKMARK [1][-]{section.4.4}{Control de versiones y documentaci\363n}{chapter*.38}% 39
-\BOOKMARK [0][-]{chapter*.51}{Aspectos relevantes del desarrollo del proyecto}{}% 40
-\BOOKMARK [1][-]{section.5.1}{Comienzo del proyecto}{chapter*.51}% 41
-\BOOKMARK [1][-]{section.5.2}{Primeras sesiones}{chapter*.51}% 42
-\BOOKMARK [1][-]{section.5.3}{Primer contacto con Ethereum}{chapter*.51}% 43
-\BOOKMARK [1][-]{section.5.4}{Realizaci\363n de contratos en modo LocalHost}{chapter*.51}% 44
-\BOOKMARK [1][-]{section.5.5}{Creaci\363n de contratos desde Visual Studio}{chapter*.51}% 45
-\BOOKMARK [1][-]{section.5.6}{Programas creados antes del programa final}{chapter*.51}% 46
-\BOOKMARK [1][-]{section.5.7}{Empezando con redes privadas}{chapter*.51}% 47
-\BOOKMARK [1][-]{section.5.8}{Problemas de conexi\363n Web3}{chapter*.51}% 48
-\BOOKMARK [1][-]{section.5.9}{Creaci\363n de la p\341gina}{chapter*.51}% 49
-\BOOKMARK [0][-]{chapter*.52}{Trabajos relacionados}{}% 50
-\BOOKMARK [1][-]{section.6.1}{Empresas y organizaciones que usan blockchain}{chapter*.52}% 51
-\BOOKMARK [0][-]{chapter*.63}{Conclusiones y L\355neas de trabajo futuras}{}% 52
-\BOOKMARK [1][-]{section.7.1}{Conclusiones}{chapter*.63}% 53
-\BOOKMARK [1][-]{section.7.2}{L\355neas de trabajo futuras}{chapter*.63}% 54
-\BOOKMARK [0][-]{chapter*.64}{Bibliograf\355a}{}% 55
+\BOOKMARK [0][-]{chapter*.3}{Introducci\363n}{}% 3
+\BOOKMARK [0][-]{chapter*.7}{Objetivos del proyecto}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Objetivos T\351cnicos y Generales}{chapter*.7}% 5
+\BOOKMARK [0][-]{chapter*.8}{Conceptos te\363ricos Scrum}{}% 6
+\BOOKMARK [1][-]{section.3.1}{Introducci\363n}{chapter*.8}% 7
+\BOOKMARK [1][-]{section.3.2}{C\363mo hacemos las pilas de producto}{chapter*.8}% 8
+\BOOKMARK [1][-]{section.3.3}{C\363mo nos preparamos y planificamos un sprint}{chapter*.8}% 9
+\BOOKMARK [1][-]{section.3.4}{C\363mo comunicamos los sprint}{chapter*.8}% 10
+\BOOKMARK [1][-]{section.3.5}{C\363mo hacemos las pilas de sprint}{chapter*.8}% 11
+\BOOKMARK [1][-]{section.3.6}{C\363mo distribuimos la sala del equipo}{chapter*.8}% 12
+\BOOKMARK [1][-]{section.3.7}{C\363mo hacemos los scrums diarios}{chapter*.8}% 13
+\BOOKMARK [1][-]{section.3.8}{C\363mo hacemos la demo de sprint}{chapter*.8}% 14
+\BOOKMARK [1][-]{section.3.9}{C\363mo hacemos las retrospectivas de sprint}{chapter*.8}% 15
+\BOOKMARK [1][-]{section.3.10}{Descansos entre sprint}{chapter*.8}% 16
+\BOOKMARK [1][-]{section.3.11}{Planificaci\363n de entregas y los contratos de precio fijo}{chapter*.8}% 17
+\BOOKMARK [1][-]{section.3.12}{C\363mo combinamos Scrum con XP}{chapter*.8}% 18
+\BOOKMARK [1][-]{section.3.13}{C\363mo hacemos pruebas}{chapter*.8}% 19
+\BOOKMARK [1][-]{section.3.14}{C\363mo manejar m\372ltiples equipos Scrum}{chapter*.8}% 20
+\BOOKMARK [1][-]{section.3.15}{Asignaci\363n y distribuci\363n de las personas en los equipos}{chapter*.8}% 21
+\BOOKMARK [1][-]{section.3.16}{Lista de comprobaci\363n del Scrum M\341ster}{chapter*.8}% 22
+\BOOKMARK [0][-]{chapter*.14}{Conceptos te\363ricos Blockchain}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Origen del blockchain}{chapter*.14}% 24
+\BOOKMARK [1][-]{section.3.2}{Que es blockchain}{chapter*.14}% 25
+\BOOKMARK [1][-]{section.3.3}{Proyectos que usan blockchain.}{chapter*.14}% 26
+\BOOKMARK [1][-]{section.3.4}{Bitcoin}{chapter*.14}% 27
+\BOOKMARK [1][-]{section.3.5}{Ethereum}{chapter*.14}% 28
+\BOOKMARK [1][-]{section.3.6}{Hyperledger}{chapter*.14}% 29
+\BOOKMARK [1][-]{section.3.7}{Plataforma de desarrollo: Solidity y D'app}{chapter*.14}% 30
+\BOOKMARK [1][-]{section.3.8}{Smart contracts}{chapter*.14}% 31
+\BOOKMARK [1][-]{section.3.9}{Plataformas de desarrollo}{chapter*.14}% 32
+\BOOKMARK [1][-]{section.3.10}{Diferencia entre Ethereum y Bitcoin}{chapter*.14}% 33
+\BOOKMARK [0][-]{chapter*.37}{T\351cnicas y herramientas}{}% 34
+\BOOKMARK [1][-]{section.4.1}{T\351cnicas utilizadas para el funcionamiento de la p\341gina WEB}{chapter*.37}% 35
+\BOOKMARK [1][-]{section.4.2}{T\351cnicas utilizadas para el la conexi\363n entre la web y nuestro Smart Contract}{chapter*.37}% 36
+\BOOKMARK [1][-]{section.4.3}{Herramientas utilizadas para el funcionamiento de la p\341gina web, funcionando con base de datos}{chapter*.37}% 37
+\BOOKMARK [1][-]{section.4.4}{Control de versiones y documentaci\363n}{chapter*.37}% 38
+\BOOKMARK [0][-]{chapter*.50}{Aspectos relevantes del desarrollo del proyecto}{}% 39
+\BOOKMARK [1][-]{section.5.1}{Comienzo del proyecto}{chapter*.50}% 40
+\BOOKMARK [1][-]{section.5.2}{Primeras sesiones}{chapter*.50}% 41
+\BOOKMARK [1][-]{section.5.3}{Primer contacto con Ethereum}{chapter*.50}% 42
+\BOOKMARK [1][-]{section.5.4}{Realizaci\363n de contratos en modo LocalHost}{chapter*.50}% 43
+\BOOKMARK [1][-]{section.5.5}{Creaci\363n de contratos desde Visual Studio}{chapter*.50}% 44
+\BOOKMARK [1][-]{section.5.6}{Programas creados antes del programa final}{chapter*.50}% 45
+\BOOKMARK [1][-]{section.5.7}{Empezando con redes privadas}{chapter*.50}% 46
+\BOOKMARK [1][-]{section.5.8}{Problemas de conexi\363n Web3}{chapter*.50}% 47
+\BOOKMARK [1][-]{section.5.9}{Creaci\363n de la p\341gina}{chapter*.50}% 48
+\BOOKMARK [0][-]{chapter*.51}{Trabajos relacionados}{}% 49
+\BOOKMARK [1][-]{section.6.1}{Empresas y organizaciones que usan blockchain}{chapter*.51}% 50
+\BOOKMARK [0][-]{chapter*.62}{Conclusiones y L\355neas de trabajo futuras}{}% 51
+\BOOKMARK [1][-]{section.7.1}{Conclusiones}{chapter*.62}% 52
+\BOOKMARK [1][-]{section.7.2}{L\355neas de trabajo futuras}{chapter*.62}% 53
+\BOOKMARK [0][-]{chapter*.63}{Bibliograf\355a}{}% 54

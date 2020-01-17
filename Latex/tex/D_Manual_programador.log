@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 18:29
 entering extended mode
 **./D_Manual_programador.tex
 (D_Manual_programador.tex
@@ -5415,6 +5415,40 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{GitLab}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.111 Para la obtención del código \cite{GitLab}
+                                                   \cite{GitHub} y los recur...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `GitLab' on page  undefined on input line 111.
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{GitHub}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.111 ...n del código \cite{GitLab} \cite{GitHub}
+                                                   y los recursos del proyec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `GitHub' on page  undefined on input line 111.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -5474,14 +5508,6 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -5637,6 +5663,16 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 111--112
  []
 
 
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 111--112
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 111--112
+[]
+ []
+
+
 Overfull \hbox (4.48613pt too wide) in paragraph at lines 111--112
 []
  []
@@ -5654,9 +5690,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
-
+l.112 
+      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5665,8 +5700,8 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <write> \newlabel{ref:install}{{}{\thepage 
                                            }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5677,8 +5712,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:Metamask1}{{}{\thepage 
                                              }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5689,8 +5724,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:Metamask2}{{}{\thepage 
                                              }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5701,8 +5736,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:Metamask3}{{}{\thepage 
                                              }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5713,8 +5748,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:Metamask4}{{}{\thepage 
                                              }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5725,8 +5760,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:Metamask5}{{}{\thepage 
                                              }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5737,8 +5772,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{intalacionE}{{}{\thepage 
                                            }}
-l.113 T
-       endremos que descargar la carpeta XAMPP, primeramente habrá que desc...
+l.112 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -7393,5 +7428,5 @@ Here is how much of TeX's memory you used:
  4053 multiletter control sequences out of 15000+200000
  4294 words of font info for 16 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,5n,16p,557b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,5n,22p,557b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
