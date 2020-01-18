@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  17 JAN 2020 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.10)  18 JAN 2020 11:25
 entering extended mode
 **./memoria.tex
 (memoria.tex
@@ -1697,50 +1697,44 @@ Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 
 
 [62]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-[]\T1/lmr/m/n/12 (+20) ¾Qué es \T1/lmr/m/it/12 (+20) neo\T1/lmr/m/n/12 (+20) ?"
-[][]$\T1/lmtt/m/n/12 https : / / www . fayerwayer . com / 2018 / 04 /
- []
-
-
-Underfull \hbox (badness 5847) in paragraph at lines 35--36
+Underfull \hbox (badness 5847) in paragraph at lines 32--33
 []\T1/lmr/m/n/12 (+20) ¾Qué es el \T1/lmr/m/it/12 (+20) crowd-fun-ding\T1/lmr/m
 /n/12 (+20) ?", [][]$\T1/lmtt/m/n/12 https : / / en . wikipedia . org / wiki /
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 48--49
+Underfull \hbox (badness 1776) in paragraph at lines 45--46
 []\T1/lmr/m/n/12 (+20) Metamask, co-mo herrmien-ta [][]$\T1/lmtt/m/n/12 https :
  / / www . criptonoticias . com /
  []
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 
 Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 []\T1/lmr/m/it/12 (+20) Pet-shop\T1/lmr/m/n/12 (+20) , [][]$\T1/lmtt/m/n/12 htt
 ps : / / truffleframework . com / tutorials / pet-[]shop$[][]\T1/lmr/m/n/12 (+2
 0) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 []\T1/lmr/m/it/12 (+20) Crypto Kit-ties\T1/lmr/m/n/12 (+20) , [][]$\T1/lmtt/m/n
 /12 https : / / www . criptonoticias . com / tutoriales /
  []
 
 
-Overfull \hbox (91.41864pt too wide) in paragraph at lines 54--55
+Overfull \hbox (91.41864pt too wide) in paragraph at lines 51--52
 \T1/lmtt/m/n/12 tutorial-[]cria-[]intercambia-[]cryptokitties-[]gatitos-[]viven
 -[]blockchain-[]ethereum/$[][]\T1/lmr/m/n/12 (-20) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 []\T1/lmr/m/it/12 (+20) Chromium\T1/lmr/m/n/12 (+20) , [][]$\T1/lmtt/m/n/12 htt
 ps : / / es . wikipedia . org / wiki / Chromium _
  []
@@ -1791,10 +1785,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 481.
  ) 
 Here is how much of TeX's memory you used:
- 13649 strings out of 492945
- 202732 string characters out of 3127140
- 375161 words of memory out of 3000000
- 16707 multiletter control sequences out of 15000+200000
+ 13642 strings out of 492945
+ 202671 string characters out of 3127140
+ 375095 words of memory out of 3000000
+ 16703 multiletter control sequences out of 15000+200000
  127876 words of font info for 178 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,38p,1030b,712s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1817,9 +1811,9 @@ ype1/public/lm/lmri12.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9/fonts
 ts/type1/public/lm/lmssbo10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/lm/lmssbx10.pfb><C:/Users/edu/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on memoria.pdf (74 pages, 2433618 bytes).
+Output written on memoria.pdf (74 pages, 2432350 bytes).
 PDF statistics:
- 1530 PDF objects out of 1728 (max. 8388607)
- 339 named destinations out of 1000 (max. 500000)
+ 1522 PDF objects out of 1728 (max. 8388607)
+ 336 named destinations out of 1000 (max. 500000)
  34857 words of extra memory for PDF output out of 35830 (max. 10000000)
 
